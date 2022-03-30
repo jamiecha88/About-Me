@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chaeunhee98
+- 👋 Hi, I’m Jamie! :D
 - 👀 I’m interested in machine learning and artificial intelligence
 - 🌱 I’m currently learning about how to use APIs, different frameworks, and libaries to incorporate in my projects. 
 - 💞️ I’m looking to collaborate...a lot of things! Just message me :)
