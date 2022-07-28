@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jamie! :D
-- 👀 I’m interested in machine learning and artificial intelligence
+- 👀 I’m interested in the Internet of Things (IOT) and Ambient Computing. 
 - 🌱 I’m currently learning about how to use APIs, different frameworks, and libaries to incorporate in my projects. 
 - 💞️ I’m looking to collaborate...a lot of things! Just message me :)
 - 📫 How to reach me: --> linkedin.com/in/jamiecha98/
